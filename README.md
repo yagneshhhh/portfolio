@@ -1,3 +1,6 @@
-just a portfolio 😊<img width="250" height="280" alt="despicablememinionsGIF" src="https://github.com/user-attachments/assets/07b740a1-a697-4ca1-8f41-2bdf513d99bf" />
+just a portfolio 😊
+
+<img width="500" height="375" alt="PokemonBonkGIF" src="https://github.com/user-attachments/assets/1dac4fcd-49a4-42ee-8215-21dddd6a8935" />
+
 
 **portfolio link :** 🔗https://portfolio-yagnesh.vercel.app/
